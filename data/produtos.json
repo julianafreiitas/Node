@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "nome": "Teclado",
+    "preco": 150,
+    "estoque": 4,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 2,
+    "nome": "Rato",
+    "preco": 180,
+    "estoque": 10,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 3,
+    "nome": "Barbie",
+    "preco": 10000,
+    "estoque": 1,
+    "categoria": "Brinquedo"
+  },
+  {
+    "id": 4,
+    "nome": "Patins",
+    "preco": 582,
+    "estoque": 7,
+    "categoria": "ESPORTEEEE"
+  },
+  {
+    "id": 5,
+    "nome": "Juliana",
+    "preco": 1e+150,
+    "estoque": 1,
+    "categoria": "Incrivel"
+  }
+]
